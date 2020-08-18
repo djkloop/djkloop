@@ -5,6 +5,9 @@
   document.writeln("Hello World") | JavaScript(2015+) | HTML(5) | CSS(3) 💬
 
 ```
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=ayu-mirage)
+
 <!--
 **djkloop/djkloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
