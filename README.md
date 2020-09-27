@@ -18,6 +18,8 @@
 
 ```
 
+![](https://visitor-badge.glitch.me/badge?page_id=djkloop)
+
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark) -->
 
 <!--
