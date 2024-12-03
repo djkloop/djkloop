@@ -2,7 +2,7 @@
 
 ```javascript
 
-  document.writeln("Hello World") | JavaScript(2015+) | HTML(5) | CSS(3) 💬
+  document.writeln("Hello World") | JavaScript(2015+) | HTML(5) | CSS(3) | Golang 💬
 
 ```
 
