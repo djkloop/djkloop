@@ -23,7 +23,7 @@
 
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djkloop&theme=buefy) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djkloop&theme=buefy&layout=compact) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark)
 
 
 <!--
