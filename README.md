@@ -11,7 +11,7 @@
  println("hello world") | Golang 💬
 ```
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="24" /> Make More Hello World...
+### <img src="https://emojis.slackmojis.com/emojis/images/1699659569/74744/huh.gif?1699659569" width="24" /> Make More Hello World...
 
 ```
  _   _   _____   _       _       _____        _          __  _____   _____    _       _____  
