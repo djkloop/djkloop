@@ -11,7 +11,7 @@
  println("hello world") | Golang 💬
 ```
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1699659569/74744/huh.gif?1699659569" width="24" /> Make More Hello World...
+### <img src="https://emojis.slackmojis.com/emojis/images/1699659569/74744/huh.gif?1699659569" width="24" /> Make More Hello World :wave:
 
 ```
  _   _   _____   _       _       _____        _          __  _____   _____    _       _____  
@@ -22,8 +22,11 @@
 |_| |_| |_____| |_____| |_____| \_____/      |___/|___/     \_____/ |_|  \_\ |_____| |_____/ 
 
 ```
+### <img src="https://emojis.slackmojis.com/emojis/images/1643515192/12068/mild-panic-intensifies.gif?1643515192" width="24"> Use Programming Language :wave:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djkloop&theme=buefy&layout=compact) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djkloop&theme=buefy&layout=compact) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark)
+### <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="24"> Github Status :wave:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark)
 
 
 <!--
