@@ -8,7 +8,7 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596"  width="24" /> 后端开发 | Back-end Software Developer :wave:
 ```golang
- println("hello world") | Golang 💬
+ println("Hello World") | Golang 💬
 ```
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1699659569/74744/huh.gif?1699659569" width="24" /> Make More Hello World :wave:
