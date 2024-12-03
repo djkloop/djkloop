@@ -23,11 +23,9 @@
 
 ```
 
-![](https://visitor-badge.glitch.me/badge?page_id=djkloop)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djkloop&theme=buefy)
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark) -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark)
 
 <!--
 **djkloop/djkloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
