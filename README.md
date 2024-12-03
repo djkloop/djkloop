@@ -6,7 +6,7 @@
 
 ```
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1592937940/9450/jmr_galactic.png?1592937940"  width="28" /> 后端开发 | Back-end Software Developer :wave:
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596"  width="28" /> 后端开发 | Back-end Software Developer :wave:
 ```golang
  println("hello world") | Golang 💬
 ```
