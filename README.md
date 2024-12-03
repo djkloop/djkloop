@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1592937940/9450/jmr_galactic.png?1592937940"  width="28" /> 前端开发 | Front-end Software Developer :wave:
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525"  width="24" /> 前端开发 | Front-end Software Developer :wave:
 
 ```javascript
 
@@ -6,12 +6,12 @@
 
 ```
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596"  width="28" /> 后端开发 | Back-end Software Developer :wave:
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596"  width="24" /> 后端开发 | Back-end Software Developer :wave:
 ```golang
  println("hello world") | Golang 💬
 ```
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Make More Hello World...
+### <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="24" /> Make More Hello World...
 
 ```
  _   _   _____   _       _       _____        _          __  _____   _____    _       _____  
