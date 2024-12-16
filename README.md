@@ -28,6 +28,9 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="24"> Github Status :wave:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark)
 
+### Oops!
+![](https://komarev.com/ghpvc/?username=djkloop)
+
 
 <!--
 **djkloop/djkloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
