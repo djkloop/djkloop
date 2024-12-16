@@ -29,7 +29,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djkloop&show_icons=true&theme=vue-dark)
 
 ### Oops!
-![](https://komarev.com/ghpvc/?username=djkloop)
+![](https://komarev.com/ghpvc/?username=djkloop&style=for-the-badge&label=Oops!)
 
 
 <!--
