@@ -2,7 +2,7 @@
 
 ```javascript
 
-  document.writeln("Hello World") | TypeScript | JavaScript(2015+) | HTML(5) | CSS(3) 💬
+  document.writeln("Hello World") | TypeScript | JavaScript(2015+) | Vue(2/3) | HTML(5) | CSS(3) 💬
 
 ```
 
