@@ -11,7 +11,7 @@
  println("Hello World") | Golang 💬
 ```
 
-### 正在学习 | Now Study Programming Language :wave:
+### <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="24"> 正在学习 | Now Study Programming Language :wave:
 ```rust
 println!("Hello World") | Rust 💬
 ```
